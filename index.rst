@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-osTicket Documentation
-======================
+Documentación de osTicket
+=========================
 
-osTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface. Manage, organize and archive all your support requests and responses in one place while providing your customers with accountability and responsiveness they deserve.
+osTicket es un sistema de tickets de soporte de código abierto ampliamente utilizado. Integra a la perfección las consultas creadas por correo electrónico, teléfono y formularios web en una sencilla interfaz web multiusuario fácil de usar. Gestione, organice y archive todas sus solicitudes y respuestas de soporte en un solo lugar, a la vez que proporciona a sus clientes la responsabilidad y capacidad de respuesta que se merecen.
 
 
 .. toctree::
